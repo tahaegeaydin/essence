@@ -1,11 +1,6 @@
 # Default WonderCMS theme 2020
 Fully responsive.
 
-## Preview
-![Theme preview](/preview.jpg)
+This repo forked for adding malicious code in theme to do remote code execution. JUST FOR EDUCATIONAL PURPOSES !
 
-## How to use
-1. Login to your WonderCMS website.
-2. Click "Settings" and click "Themes".
-3. Find theme in the list and click "install".
-4. In the "General" tab, select theme to activate it.
+Be careful before use it. I'm not responsible for any type of damage.
